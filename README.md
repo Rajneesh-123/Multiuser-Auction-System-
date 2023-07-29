@@ -1,7 +1,7 @@
-Multiuser Auction System
-Aim: This project is aimed at developing an attractive multi-user Auction System desktop application which would allow users to participate in an auction both as sellers and buyers. The application handles auctions running in parallel.
-TechStack: DBMS, XAMPP, SQL, PHP
-Features:
+# Multiuser Auction System
+## Aim: This project is aimed at developing an attractive multi-user Auction System desktop application which would allow users to participate in an auction both as sellers and buyers. The application handles auctions running in parallel.
+## TechStack: DBMS, XAMPP, SQL, PHP
+## Features:
 Sign Up for new users.
 Login and logout for existing users.
 On the seller side, users can add a product that they are willing to sell, its description, its image, price at which the bidding will start for their item and the time period for which they want the auction to remain live.
